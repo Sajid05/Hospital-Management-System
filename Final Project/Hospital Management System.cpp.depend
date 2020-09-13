@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1599926370 source:c:\users\sajid'\desktop\final project\hospital management system.cpp\main.cpp
+	<iostream>
+	<conio.h>
+	"Admin.h"
+	"Doctor.h"
+	"Receptionist.h"
+	"Patient.h"
+	<windows.h>
+	"MakeBox.h"
+
+1599820205 c:\users\sajid'\desktop\final project\hospital management system.cpp\include\admin.h
+	<iostream>
+
+1599892641 source:c:\users\sajid'\desktop\final project\hospital management system.cpp\src\admin.cpp
+	"Admin.h"
+	"Doctor.h"
+	"Receptionist.h"
+	<fstream>
+	"Patient.h"
+	"MakeBox.h"
+
+1599882543 source:c:\users\sajid'\desktop\final project\hospital management system.cpp\src\doctor.cpp
+	"Doctor.h"
+	<fstream>
+	<ctime>
+	"Patient.h"
+	"MakeBox.h"
+
+1599892635 c:\users\sajid'\desktop\final project\hospital management system.cpp\include\doctor.h
+	<iostream>
+	"Employee.h"
+
+1599882543 source:c:\users\sajid'\desktop\final project\hospital management system.cpp\src\employee.cpp
+	"Employee.h"
+	<fstream>
+	<ctime>
+	"Person.h"
+	"MakeBox.h"
+
+1599882543 c:\users\sajid'\desktop\final project\hospital management system.cpp\include\employee.h
+	<iostream>
+	"Person.h"
+
+1599882543 source:c:\users\sajid'\desktop\final project\hospital management system.cpp\src\receptionist.cpp
+	"Receptionist.h"
+	"Employee.h"
+	"Patient.h"
+	"MakeBox.h"
+
+1599818887 c:\users\sajid'\desktop\final project\hospital management system.cpp\include\receptionist.h
+	"Employee.h"
+	<iostream>
+
+1599883900 source:c:\users\sajid'\desktop\final project\hospital management system.cpp\src\person.cpp
+	"Person.h"
+	<ctime>
+	<fstream>
+	"MakeBox.h"
+
+1599883900 c:\users\sajid'\desktop\final project\hospital management system.cpp\include\person.h
+	<iostream>
+	<bits/stdc++.h>
+
+1599883900 source:c:\users\sajid'\desktop\final project\hospital management system.cpp\src\patient.cpp
+	"Patient.h"
+	"Doctor.h"
+	<ctime>
+	"MakeBox.h"
+
+1599816645 c:\users\sajid'\desktop\final project\hospital management system.cpp\include\patient.h
+	<iostream>
+	"Person.h"
+
+1598643644 c:\users\sajid'\desktop\final project\hospital management system.cpp\include\doctor_functions.h
+	"Doctor.h"
+
+1598643642 c:\users\sajid'\desktop\final project\hospital management system.cpp\include\receptionist_functions.h
+	"Receptionist.h"
+
+1598725178 c:\users\sajid'\desktop\final project\hospital management system.cpp\include\patient_functions.h
+	"Patient.h"
+
+1599800041 c:\users\sajid'\desktop\final project\hospital management system.cpp\include\makebox.h
+
+1599849184 source:c:\users\sajid'\desktop\final project\hospital management system.cpp\src\makebox.cpp
+	"MakeBox.h"
+	<iostream>
+
