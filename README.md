@@ -5,6 +5,7 @@
 ## Features : 
 
 ● Each access of the admin, doctor and receptionist will be protected by password
+
 ● Employee can change their passwords later
 ● When receptionists assign patients to doctors, a slip with a randomly generated slip code
 is created containing patient information
