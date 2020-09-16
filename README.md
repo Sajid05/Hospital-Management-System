@@ -25,11 +25,13 @@ is created containing patient information
   ○ Prescribe patients
   
 ● Receptionist :
+
   ○ Assign patients to doctors
   ○ Ask patients if they had brought previous slips, if so, include those slip numbers
     in patient information and thus, doctors can view the previous medical history
     
 ● Patient / Visitor :
+
 ○ View own slip by providing unique slip code
 ○ Can search for doctors and see their degree, assigned department and room no
 
