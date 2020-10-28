@@ -2,7 +2,7 @@
 
 ## Password for Admin is : admin
 
-## Overview : 
+## Overview 
 
 Hospital Management System (HMS) is a system mainly focussed on automating the process of
 storing employee profiles and keeping track of the patient records and diagnostic information to
