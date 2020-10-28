@@ -42,4 +42,7 @@ is created containing patient information
 ○ View own slip by providing unique slip code
 ○ Can search for doctors and see their degree, assigned department and room no
 
+## Snippets
+### Login Options : 
+![Login Options](https://user-images.githubusercontent.com/57594776/97452354-d8cf0c00-195e-11eb-968b-d80e741ef585.JPG)
 
