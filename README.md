@@ -64,7 +64,7 @@ is created containing patient information
 ![Receptionist assigning patients](https://user-images.githubusercontent.com/57594776/97453564-108a8380-1960-11eb-8406-f0cced12f126.JPG)
 
 ### Visitor Options : 
-
+![1111111111111111111111111111111111111111111](https://user-images.githubusercontent.com/57594776/97455309-e934b600-1961-11eb-94c3-3ea947b921eb.JPG)
 ### ● Find Your Prescription :
 ![Visitor Recept prescription](https://user-images.githubusercontent.com/57594776/97453729-3879e700-1960-11eb-960d-e6bedb8433e4.JPG)
 ![Visitor Old prescription](https://user-images.githubusercontent.com/57594776/97453610-1c764580-1960-11eb-959c-becd22dc75d2.JPG)
