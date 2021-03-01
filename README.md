@@ -1,6 +1,6 @@
 # Hospital Management System
 
-## Password for Admin is : admin
+#### Password for Admin is : admin
 
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 ![IDE](https://img.shields.io/badge/IDE-Code::Blocks-blue)
