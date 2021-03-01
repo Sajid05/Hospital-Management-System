@@ -11,7 +11,9 @@
 Hospital Management System (HMS) is a system mainly focussed on automating the process of
 storing employee profiles and keeping track of the patient records and diagnostic information to
 make those information readily available to doctors for ensuring faster service and smooth
-organization of data. This project was done for the course CSE 4302: Object Oriented Programming Lab.
+organization of data. 
+
+This project was done for the course CSE 4302: Object Oriented Programming Lab.
 
 ## Features : 
 
