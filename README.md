@@ -26,24 +26,24 @@ is created containing patient information
 
 ● Admin :
 
-  ○ Create new departments and assign doctors 
-  ○ Create, view, update, delete and search doctors and receptionists
+  ○ Create new departments and assign doctors <br />
+  ○ Create, view, update, delete and search doctors and receptionists<br />
   ○ View all patients
   
 ● Doctor :
 
-  ○ View assigned patients and their earlier medical histories
+  ○ View assigned patients and their earlier medical histories<br />
   ○ Prescribe patients
   
 ● Receptionist :
 
-  ○ Assign patients to doctors
+  ○ Assign patients to doctors<br />
   ○ Ask patients if they had brought previous slips, if so, include those slip numbers
     in patient information and thus, doctors can view the previous medical history
     
 ● Patient / Visitor :
 
-○ View own slip by providing unique slip code
+○ View own slip by providing unique slip code<br />
 ○ Can search for doctors and see their degree, assigned department and room no
 
 ## Snippets
